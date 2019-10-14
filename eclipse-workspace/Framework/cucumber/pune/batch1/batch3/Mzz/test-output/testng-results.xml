@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[jai Ganesha]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="59" started-at="2019-10-13T14:46:19Z" finished-at="2019-10-13T14:46:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="59" started-at="2019-10-13T14:46:19Z" finished-at="2019-10-13T14:46:19Z">
+      <class name="Sample">
+        <test-method status="PASS" signature="abc()[pri:0, instance:Sample@64c64813]" name="abc" duration-ms="27" started-at="2019-10-13T20:16:19Z" finished-at="2019-10-13T20:16:19Z">
+          <reporter-output>
+            <line>
+              <![CDATA[jai Ganesha]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- abc -->
+      </class> <!-- Sample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
